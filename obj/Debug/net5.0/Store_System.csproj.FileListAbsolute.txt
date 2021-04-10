@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\bin\Debug\net5.0\Store_System.exe
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\bin\Debug\net5.0\Store_System.deps.json
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\bin\Debug\net5.0\Store_System.runtimeconfig.json
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\bin\Debug\net5.0\Store_System.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\bin\Debug\net5.0\Store_System.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\bin\Debug\net5.0\ref\Store_System.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\bin\Debug\net5.0\Store_System.pdb
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\obj\Debug\net5.0\Store_System.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\obj\Debug\net5.0\Store_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\obj\Debug\net5.0\Store_System.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\obj\Debug\net5.0\Store_System.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\obj\Debug\net5.0\Store_System.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\obj\Debug\net5.0\Store_System.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\obj\Debug\net5.0\ref\Store_System.dll
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\obj\Debug\net5.0\Store_System.pdb
+C:\Users\USUARIO\Desktop\PROGRAMMING II\Store_System\Store_System\obj\Debug\net5.0\Store_System.genruntimeconfig.cache
